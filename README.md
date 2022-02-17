@@ -1,2 +1,2 @@
-# Selenium-front-automation
+# Front-Automation|Selenium
 Repo para casos de selenium
